@@ -1,3 +1,1 @@
-(function () {
-	alert( "This is an external javascript file" );
-})()
+alert("This is an external javascript file");
